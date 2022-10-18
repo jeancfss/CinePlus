@@ -1,0 +1,19 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\cineplus-master",
+    "\\cineplus-master\\android",
+    "\\cineplus-master\\android\\app",
+    "\\cineplus-master\\android\\app\\src\\debug",
+    "\\cineplus-master\\android\\app\\src\\main\\kotlin",
+    "\\cineplus-master\\android\\app\\src\\main\\kotlin\\com",
+    "\\cineplus-master\\android\\app\\src\\main\\kotlin\\com\\example",
+    "\\cineplus-master\\android\\app\\src\\main\\kotlin\\com\\example\\cineplus",
+    "\\cineplus-master\\android\\gradle",
+    "\\cineplus-master\\android\\gradle\\wrapper",
+    "\\cineplus-master\\assets",
+    "\\cineplus-master\\ios"
+  ],
+  "SelectedNode": "\\cineplus-master\\ios\\Runner\\Runner-Bridging-Header.h",
+  "PreviewInSolutionExplorer": false
+}
